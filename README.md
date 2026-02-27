@@ -13,6 +13,7 @@ This is a simple online furniture selling website project.
 - CSS
 - PHP
 - MySQL
+- python
 
 ## How to Run
 1. Install XAMPP
@@ -20,4 +21,4 @@ This is a simple online furniture selling website project.
 3. Run project on localhost
 
 ## Author
-Madhav
+rehan
